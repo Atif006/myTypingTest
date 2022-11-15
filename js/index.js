@@ -8,7 +8,7 @@ let tyrButton = document.querySelector("button");
 let styTag = document.querySelector(".result-details li span");
 console.log(styTag);
 let timer,
-  maxTime = 1;
+  maxTime = 60;
 let timeLeft = maxTime;
 let charIndex = (mistakes = istyping = 0);
 
